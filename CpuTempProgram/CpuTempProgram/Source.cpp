@@ -5,7 +5,7 @@ int main() {
 	// Store temp in a string or anything else
 	// Send CPU Temp trough serial to arduino
 				
-	getchar();
+	getchar(); // Just a endline
 
 	return 0;
 }
