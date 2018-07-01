@@ -10,6 +10,8 @@
 *.sln.docstates
 
 Debug/
+CpuTempProgram/CpuTempProgram\Debug
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
